@@ -7,9 +7,9 @@ function Dashboard() {
 
   return (
     <div id="dashboardPage">
-      <div id="message">msg</div>
+      <div id="message">{msg}</div>
 
-
+    
       <DataItem />
 
 
